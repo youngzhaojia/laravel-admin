@@ -1,0 +1,29 @@
+{
+  "name": "public",
+  "authors": [
+    "young <youngzhaojia@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-iconpicker": "^1.8.2",
+    "bootstrap": "^3.3.7",
+    "art-template": "^4.12.1",
+    "datatables": "datatable#^1.10.15",
+    "jquery-form": "^4.2.1",
+    "Ionicons": "ionicons#^2.0.1",
+    "font-awesome": "^4.7.0",
+    "iCheck": "^1.0.2",
+    "jquery": "^3.2.1",
+    "juicer": "^0.4.0"
+  }
+}
