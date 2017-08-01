@@ -15,7 +15,7 @@
 
 ## 截图
 
-![laravel-admin](http://github.com/youngzhaojia/laravel-admin/raw/master/public/images/page.gif)
+![laravel-admin](https://github.com/youngzhaojia/laravel-admin/raw/master/public/images/page.gif)
 
 ## 安装
 - git clone 到本地
